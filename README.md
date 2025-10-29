@@ -1,4 +1,4 @@
-This project contains summaries of 5 research papers that address the topic of early detection of infection using deep learning and statistical signal processing.
+This project contains summaries of 5 research papers that address the topic of early detection of sepsis using deep learning and statistical signal processing.
 Summery: Statistical Signal Processing Assisted by Artificial Intelligence for Early Sepsis Detection 
 Presentation: Statistical Signal Processing Assisted by AI for Early Sepsis Detection
 Gaol: An attempt to answer the questions related to the limitations of early detection of infection,
